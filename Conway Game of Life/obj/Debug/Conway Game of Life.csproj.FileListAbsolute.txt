@@ -1,0 +1,13 @@
+C:\Users\Андрей\Desktop\Учёба 4 семестр\Conway Game of Life\Conway Game of Life\bin\Debug\Conway Game of Life.exe.config
+C:\Users\Андрей\Desktop\Учёба 4 семестр\Учебная практика. Игра Жизнь\Conway Game of Life\Conway Game of Life\bin\Debug\Conway Game of Life.exe.config
+C:\Users\Андрей\Desktop\Учёба 4 семестр\Учебная практика. Игра Жизнь\Conway Game of Life\Conway Game of Life\bin\Debug\Conway Game of Life.exe
+C:\Users\Андрей\Desktop\Учёба 4 семестр\Учебная практика. Игра Жизнь\Conway Game of Life\Conway Game of Life\bin\Debug\Conway Game of Life.pdb
+C:\Users\Андрей\Desktop\Учёба 4 семестр\Учебная практика. Игра Жизнь\Conway Game of Life\Conway Game of Life\obj\Debug\Conway Game of Life.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Учёба 4 семестр\Учебная практика. Игра Жизнь\Conway Game of Life\Conway Game of Life\obj\Debug\Conway_Game_of_Life.Form1.resources
+C:\Users\Андрей\Desktop\Учёба 4 семестр\Учебная практика. Игра Жизнь\Conway Game of Life\Conway Game of Life\obj\Debug\Conway_Game_of_Life.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Учёба 4 семестр\Учебная практика. Игра Жизнь\Conway Game of Life\Conway Game of Life\obj\Debug\Conway Game of Life.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\Учёба 4 семестр\Учебная практика. Игра Жизнь\Conway Game of Life\Conway Game of Life\obj\Debug\Conway Game of Life.exe
+C:\Users\Андрей\Desktop\Учёба 4 семестр\Учебная практика. Игра Жизнь\Conway Game of Life\Conway Game of Life\obj\Debug\Conway Game of Life.pdb
+C:\Users\Андрей\Desktop\Учёба 4 семестр\Учебная практика. Игра Жизнь\Conway Game of Life\Conway Game of Life\obj\Debug\Conway_Game_of_Life.Structures.resources
+C:\Users\Андрей\Desktop\Учёба 4 семестр\Учебная практика. Игра Жизнь\Conway Game of Life\Conway Game of Life\obj\Debug\Conway_Game_of_Life.NameInputBox.resources
+C:\Users\Андрей\Desktop\Учёба 4 семестр\Учебная практика. Игра Жизнь\Conway Game of Life\Conway Game of Life\obj\Debug\Conway_Game_of_Life.HelloUser.resources
